@@ -1,5 +1,6 @@
 # mongodb-devops-hackathon
 
+
 * Difficult to differentiate between large language models
   * Gap between open and closed source models are closing
   * Difficult to even quantify and compare different models -- all benchmarks are novel
@@ -15,3 +16,11 @@
     * The internals of the model remain confidential at all times, even to the customer, and that the model itself is not tampered with
     * The model provider receives a digital signature, signed by the hardware manufacturer (e.g. Intel, AMD, NVIDIA), that the model is running 1) on genuine hardware, and 2) in an environment that is running code that they expect, i.e. the environment has not been tampered with.
     * The model provider does not have to trust the customer to do what was agreed on. Instead, the model provider can trust the cryptographic proofs provided by the hardware manufacturer.
+ 
+
+<img src="https://raw.githubusercontent.com/microsoft/confidential-ai/main/inference/docs/images/aci-platform.png" alt="Confidential ACI Architecture" width="600"/>
+
+
+![Confidential ML Inference Architecture](https://raw.githubusercontent.com/microsoft/confidential-ai/main/inference/docs/images/conf-ml-architecture.png)
+
+[Image Credits ] Image from Microsoft COnfidential AI - https://github.com/microsoft/confidential-ai/tree/main
