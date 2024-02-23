@@ -22,3 +22,5 @@
 
 
 ![Confidential ML Inference Architecture](https://raw.githubusercontent.com/microsoft/confidential-ai/main/inference/docs/images/conf-ml-architecture.png)
+
+[Image Credits ] Image from Microsoft COnfidential AI - https://github.com/microsoft/confidential-ai/tree/main
